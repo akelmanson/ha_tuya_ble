@@ -74,7 +74,7 @@ mapping: dict[str, TuyaBLECategoryBinarySensorMapping] = {
     ),
     "ms": TuyaBLECategoryBinarySensorMapping(
         products={
-            "okkyfgfs": [ # Smart Lock
+            "sidhzylo": [ # Smart Lock
                 TuyaBLEBinarySensorMapping(
                     dp_id=47,
                     description=BinarySensorEntityDescription(

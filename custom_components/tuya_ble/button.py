@@ -131,7 +131,7 @@ mapping: dict[str, TuyaBLECategoryButtonMapping] = {
     ),
     "ms": TuyaBLECategoryButtonMapping(
           products={
-             "okkyfgfs": # Smart Lock
+             "sidhzylo": # Smart Lock
              [
                  TuyaBLELockMapping(
                      dp_id=6,
